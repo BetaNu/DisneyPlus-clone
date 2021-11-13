@@ -18,6 +18,18 @@ function Movies() {
                 <Wrap>
                     <img src="/images/viewers-pixar.png" alt="" />
                 </Wrap>
+                <Wrap>
+                    <img src="/images/viewers-pixar.png" alt="" />
+                </Wrap>
+                <Wrap>
+                    <img src="/images/viewers-pixar.png" alt="" />
+                </Wrap>
+                <Wrap>
+                    <img src="/images/viewers-pixar.png" alt="" />
+                </Wrap>
+                <Wrap>
+                    <img src="/images/viewers-pixar.png" alt="" />
+                </Wrap>
             </Content>
         </Container>
     )
